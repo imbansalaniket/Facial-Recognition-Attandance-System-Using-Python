@@ -19,8 +19,8 @@ To run this project on your machine, after unzipping the project follow these co
       <li>python train.py</li>
     </ol>
   </li>
-  <li>You will be shown a window like this:
-    <img src="Face_Recogniser 13-06-2020 9.14.42 PM.png">
+  <li>You will be shown a window like this:<br>
+    <img src="Face_Recogniser 13-06-2020 9.14.42 PM.png" width=75%>
   
   
       
