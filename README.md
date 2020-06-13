@@ -41,12 +41,8 @@ To run this project on your machine, after unzipping the project follow these co
     Here you can see a .csv file is created open it with excel you can see it contains your name id and a datestamp of you when you tracked the image.
   </li>
 </ol>
-  
-  
-  
-  
-      
-      
-    
-    
-  </ol>
+Similarly You can train it for multiple peoples.(Place one person in the frame while taking the image.)
+Although try with multiple people in the frame when you are marking the attandance i.e. Tracking Images.
+
+
+For further assistance raise a Issue.
