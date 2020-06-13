@@ -20,7 +20,7 @@ To run this project on your machine, after unzipping the project follow these co
     </ol>
   </li>
   <li>You will be shown a window like this:
-    <img src="
+    <img src="Face_Recogniser 13-06-2020 9.14.42 PM.png">
   
   
       
