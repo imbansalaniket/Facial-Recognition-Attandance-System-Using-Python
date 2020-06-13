@@ -42,7 +42,8 @@ To run this project on your machine, after unzipping the project follow these co
   </li>
 </ol>
 Similarly You can train it for multiple peoples.(Place one person in the frame while taking the image.)
+<br>
 Although try with multiple people in the frame when you are marking the attandance i.e. Tracking Images.
-
-
+<br>
+<br>
 For further assistance raise a Issue.
